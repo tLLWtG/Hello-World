@@ -1,5 +1,7 @@
 # Hello-World
-My first try in Github
 
+* My first repo in Github
 
-add some info in the branch
+### UPD
+
+* add some info in the branch
